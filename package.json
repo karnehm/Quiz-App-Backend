@@ -1,0 +1,13 @@
+{
+	"name": "quiz-app-backend",
+	"version": "1.0.0",
+	"license": "MIT",
+	"email": "dominic.karnehm@gmail.com",
+	"description": "Es handelt sich um das Backend für die Quiz-App für die Studienarbeit in Software Engineering I im WiSe 2018/19",
+	"scripts": {
+		"start": "json-server --watch db.json"
+	},
+	"dependencies": {
+		"json-server": "^0.14.0"
+	}
+}

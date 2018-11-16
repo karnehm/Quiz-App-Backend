@@ -1,0 +1,14 @@
+{
+	"question": [{
+		"id": 1,
+		"question": "Was ist das Ergebnis aus 1+1?",
+		"questionType":"MultibleChoice",
+		"answers": ["0","3","1","2"],
+		"correctAnswer":3
+		},{
+		"id":2,
+		"question": "Wie heißt der Trabant unseres Heimatplaneten?",
+		"questionType":"Text",
+		"correctAnswer":"Mond"
+	}]
+}
